@@ -2,7 +2,7 @@
 Projet réalisé dans le cours C++ à l'école Institut Supérieur d'Informatique (ISI).
 
 Le fameux jeu Space Invader réalisé entièrement dans la console Windows. Premier projet orienté objet. Projet en équipe (2 personnes) et premier projet orienté objet. Malgré que le jeu soit en console, il est tout de même plein écran et contient des bandes audios.
-![enter image description here](Images/Images/menu.png)
+![enter image description here](Images/menu.png)
 
 Exemple de configuration de touche. Le joueur ne peut changer une touche pour une déjà utilisée. Une fois la touche changée, le joueur peut aussi reinitialiser les touches par défauts (ADEL)
 ![enter image description here](Images/input.gif)
