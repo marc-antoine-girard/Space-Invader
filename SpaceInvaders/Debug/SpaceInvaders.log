@@ -1,0 +1,30 @@
+﻿  Collision.cpp
+  Config.cpp
+c:\users\marus\desktop\projets\spaceinvaders\spaceinvaders\config.cpp(27): warning C4551: liste d'arguments manquante dans l'appel de fonction
+  Coord.cpp
+  ExtraTerrestre.cpp
+  GOMenu.cpp
+  Item.cpp
+  Laser.cpp
+  LaserEnnemie.cpp
+  LaserNiv1.cpp
+  Martien.cpp
+  Menu.cpp
+  Partie.cpp
+c:\users\marus\desktop\projets\spaceinvaders\spaceinvaders\partie.cpp(18): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\marus\desktop\projets\spaceinvaders\spaceinvaders\partie.cpp(75): warning C4244: 'argument' : conversion de '_Rep' en 'DWORD', perte possible de données
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\marus\desktop\projets\spaceinvaders\spaceinvaders\partie.cpp(273): warning C4244: '+=' : conversion de 'double' en 'time_t', perte possible de données
+  Player.cpp
+  Plutonien.cpp
+  Score.cpp
+  SpaceMain.cpp
+  Statistic.cpp
+  UIKit.cpp
+c:\users\marus\desktop\projets\spaceinvaders\spaceinvaders\uikit.cpp(107): warning C4838: la conversion de 'int' en 'SHORT' requiert une conversion restrictive
+  Vaisseau.cpp
+  Génération de code en cours...
+  SpaceInvaders.vcxproj -> C:\Users\marus\Desktop\Projets\SpaceInvaders\Debug\SpaceInvaders.exe
